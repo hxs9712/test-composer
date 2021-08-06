@@ -1,0 +1,15 @@
+{
+    "name": "hsx9712/composer_init",
+    "description": "composer_init",
+    "type": "library",
+    "authors": [
+        {
+            "name": "zousi",
+            "email": "3056953305@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "hxs9712/wechathxs": "9999999-dev"
+    }
+}

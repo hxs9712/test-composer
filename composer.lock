@@ -1,0 +1,68 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "c2df5996779890ef3f5d0c27981a6c49",
+    "packages": [
+        {
+            "name": "hxs9712/wechathxs",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/hxs9712/wechathxs.git",
+                "reference": "022cd42617421a11c248f69990082b6023d3a09e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/hxs9712/wechathxs/zipball/022cd42617421a11c248f69990082b6023d3a09e",
+                "reference": "022cd42617421a11c248f69990082b6023d3a09e",
+                "shasum": "",
+                "mirrors": [
+                    {
+                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "preferred": true
+                    }
+                ]
+            },
+            "require": {
+                "php": ">=7.0.1"
+            },
+            "default-branch": true,
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "hxs9712\\wechathxs\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "apache-2.0"
+            ],
+            "authors": [
+                {
+                    "name": "'Hsb9712'",
+                    "email": "3056953305@qq.com"
+                }
+            ],
+            "description": "微信便捷开发接口库",
+            "support": {
+                "issues": "https://github.com/hxs9712/wechathxs/issues",
+                "source": "https://github.com/hxs9712/wechathxs/tree/v1.2"
+            },
+            "time": "2021-05-30T14:01:34+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "hxs9712/wechathxs": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
+}
